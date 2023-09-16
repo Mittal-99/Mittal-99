@@ -7,7 +7,6 @@
 
 🔍 Current Focus:
 - Machine Learning and Deep Learning
-- Building real time projects
   
 🚀 Goals:
 - Applying data-driven insights to make informed decisions
@@ -15,8 +14,7 @@
 - Learning and growing in the ever-evolving world of data science
 
 🔗 Let's Connect:
-- GMail: anushimittal015@gmail.com
-- https://www.linkedin.com/in/anushi-mittal-7597b6244
+- anushimittal015@gmail.com
 
 Excited to embark on this data-driven journey and contribute to meaningful projects! 📈💡
 

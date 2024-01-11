@@ -6,7 +6,7 @@
 - Machine learning enthusiast, exploring algorithms and applications
 
 🔍 Current Focus:
-- Machine Learning and Deep Learning
+- AI & IoT
   
 🚀 Goals:
 - Applying data-driven insights to make informed decisions
